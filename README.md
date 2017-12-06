@@ -13,7 +13,7 @@ Bruno Aybar - Android Dev Perú  | Subscribe { RxJava vs LiveData } | https://sp
 Mabel Rodriguez | Google Analytics: Setup and use!| --
 Victoria ubaldo - WTMLima | Kit para crear un sitio web movil asombroso| --
 Edson Chavez - Agile Perú | Coding Dojo: TDD| --
-Pablo Johnson - Android Dev Perú | Android Architecture Components | --
+Pablo Johnson - Android Dev Perú | Android Architecture Components | https://docs.google.com/presentation/d/1mVVXtD4qdAxzawpNE2ebs5shlonIyynPt7x3n1ehaZ8/edit?usp=sharing
 Elder Vasquez - Area51 | Cómo y por qué ARKit está un paso delante de ARCore | --
 Nadia Breuer - Victoria Sampi - Mauro Fernandez | Conversatorio UX | --
 Gustavo Leon - FrontEnd.pe | Usando Preact, una alternativa ligera a React| https://speakerdeck.com/hpneo/usando-preact-una-alternativa-ligera-a-react
