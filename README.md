@@ -7,7 +7,7 @@ Expositor | Tema  | Presentación
 ------------ | ------------- | ------------- 
 Carlos García - Google Peru   | Publicidad con Google AdWords | --
 Kevin Salazar - Kotlin Perú  | Ejemplo sobre Android Architecture Components usando Kotlin | https://github.com/kevicsalazar/UpLabs-Kotlin/tree/Architecture-Components
-Juan Gonzales - Laravel Perú  | Arquitectura y buenas practicas con php7 y Laravel 5.5 | --
+Juan Gonzales - Laravel Perú  | Arquitectura y buenas practicas con php7 y Laravel 5.5 | https://drive.google.com/file/d/1snaPQjYwQIO-4y3j7FiH4mSDKGB6P6Mf/view?usp=sharing
 Luis Valvidia - Phaser Perú  | Phaser + Cordova | https://docs.google.com/presentation/d/1282fx_iIxZiB0iAT0GBsBA9gy7R02ZW4jxSBx0IDB1E/edit?usp=sharing
 Bruno Aybar - Android Dev Perú  | Subscribe { RxJava vs LiveData } | https://speakerdeck.com/bruno125/subscribe-rxjava-vs-livedata
 Mabel Rodriguez | Google Analytics: Setup and use!| https://drive.google.com/file/d/1SrcxRZif2NXAsJTrxGp9WSzsFN_P327W/view?usp=sharing
