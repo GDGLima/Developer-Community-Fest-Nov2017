@@ -11,7 +11,7 @@ Juan Gonzales - Laravel Perú  | Arquitectura y buenas practicas con php7 y Lara
 Luis Valvidia - Phaser Perú  | Phaser + Cordova | https://docs.google.com/presentation/d/1282fx_iIxZiB0iAT0GBsBA9gy7R02ZW4jxSBx0IDB1E/edit?usp=sharing
 Bruno Aybar - Android Dev Perú  | Subscribe { RxJava vs LiveData } | https://speakerdeck.com/bruno125/subscribe-rxjava-vs-livedata
 Mabel Rodriguez | Google Analytics: Setup and use!| --
-Victoria ubaldo - WTMLima | Kit para crear un sitio web movil asombroso| --
+Victoria ubaldo - WTMLima | Kit para crear un sitio web movil asombroso| https://es.slideshare.net/VictoriaAlejandraUba/kit-para-crear-un-sitio-web-mvil-asombroso 
 Edson Chavez - Agile Perú | Coding Dojo: TDD| --
 Pablo Johnson - Android Dev Perú | Android Architecture Components | https://docs.google.com/presentation/d/1mVVXtD4qdAxzawpNE2ebs5shlonIyynPt7x3n1ehaZ8/edit?usp=sharing
 Elder Vasquez - Area51 | Cómo y por qué ARKit está un paso delante de ARCore | https://drive.google.com/file/d/1tHu0_G4v4Wk7k-x-Imc1BGVddWjYfcuV/view?usp=sharing
