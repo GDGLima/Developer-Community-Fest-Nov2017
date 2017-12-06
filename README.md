@@ -27,7 +27,7 @@ Stephanie Frias - Hablemos de Testing |La terrible mente de un tester| https://w
 Nicolas Bianchi - GDE |Introducción a Material Design y UX process| --
 Paúl Diaz - FrontEnd.pe |React - The good parts| --
 Leandro Sono | Principios de UX para diseñar mejores soluciones digitales | --
-José Garcia - Franti Huamán - Area51 | Sincronización de datos en aplicaciones de alto rendimiento | --
+José Garcia - Franti Huamán - Area51 | Sincronización de datos en aplicaciones de alto rendimiento | https://drive.google.com/file/d/1A_JDkZIS5plO79nYf5Jnsv-Vjlk70P_6/view?usp=sharing
 Santiago Carrillo - GDE | Integrando Android con Firebase | --
 Randy Real - Python Perú | Python una manera distinta en programación web y desarrollo de aplicaciones | --
 Bryam Soto - OpenLab | Maker Clusterin - Google Maps | --
