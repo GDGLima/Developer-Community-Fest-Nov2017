@@ -12,7 +12,7 @@ Luis Valvidia - Phaser Perú  | Phaser + Cordova | https://docs.google.com/prese
 Bruno Aybar - Android Dev Perú  | Subscribe { RxJava vs LiveData } | https://speakerdeck.com/bruno125/subscribe-rxjava-vs-livedata
 Mabel Rodriguez | Google Analytics: Setup and use!| --
 Victoria ubaldo - WTMLima | Kit para crear un sitio web movil asombroso| https://es.slideshare.net/VictoriaAlejandraUba/kit-para-crear-un-sitio-web-mvil-asombroso 
-Edson Chavez - Agile Perú | Coding Dojo: TDD| --
+Edson Chavez - Agile Perú | Coding Dojo: TDD| https://drive.google.com/file/d/1tm5iRptP_RLpYmZkFPtFpiIe1acz9rGM/view?usp=sharing
 Pablo Johnson - Android Dev Perú | Android Architecture Components | https://docs.google.com/presentation/d/1mVVXtD4qdAxzawpNE2ebs5shlonIyynPt7x3n1ehaZ8/edit?usp=sharing
 Elder Vasquez - Area51 | Cómo y por qué ARKit está un paso delante de ARCore | https://drive.google.com/file/d/1tHu0_G4v4Wk7k-x-Imc1BGVddWjYfcuV/view?usp=sharing
 Nadia Breuer - Victoria Sampi - Mauro Fernandez | Conversatorio UX | https://drive.google.com/file/d/1TWaz9Me0k79ZsZEtzldfKDSWYfCUFf3Y/view?usp=sharing https://drive.google.com/file/d/158Pu_uV_24lv92gaFcKr_i5MMovuoldY/view?usp=sharing
@@ -21,7 +21,7 @@ José Diaz - Perú Java User Group | Novedades para desarrolladores sobre Java 9
 Hernan Quintana | Feature selection utilizando Tensorflow | --
 Eddú Meléndez - Docker Lima| Construyendo Pipelines con Jenkins | --
 Zig Mandel - GDE| Firebase: mejores apps, más rápido| --
-Edith Puclla - Docker Lima | Docker Ecosystem| --
+Edith Puclla - Docker Lima | Docker Ecosystem| https://www.slideshare.net/EdithPuclla/gdglima-dockerecosystem-82718836
 Renzo Evans - Game Devs Perú | UI y UX de tutoriales y Ads en Videojuegos| https://drive.google.com/file/d/1pEB2ctEz9XSofJTj5x4RMrDZZ3h07hWs/view?usp=sharing
 Stephanie Frias - Hablemos de Testing |La terrible mente de un tester| https://www.slideshare.net/stephaniefriasz/la-terrible-mente-de-un-tester/stephaniefriasz/la-terrible-mente-de-un-tester
 Nicolas Bianchi - GDE |Introducción a Material Design y UX process| --
@@ -30,4 +30,4 @@ Leandro Sono | Principios de UX para diseñar mejores soluciones digitales | --
 José Garcia - Franti Huamán - Area51 | Sincronización de datos en aplicaciones de alto rendimiento | https://drive.google.com/file/d/1A_JDkZIS5plO79nYf5Jnsv-Vjlk70P_6/view?usp=sharing
 Santiago Carrillo - GDE | Integrando Android con Firebase | --
 Randy Real - Python Perú | Python una manera distinta en programación web y desarrollo de aplicaciones | --
-Bryam Soto - OpenLab | Maker Clusterin - Google Maps | --
+Bryam Soto - OpenLab | Maker Clusterin - Google Maps | https://drive.google.com/file/d/1KNEHfJVa_3nqFUy5VzA_mvXfuoxXf3YA/view?usp=sharing
