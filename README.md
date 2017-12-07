@@ -19,7 +19,7 @@ Nadia Breuer - Victoria Sampi - Mauro Fernandez | Conversatorio UX | https://dri
 Gustavo Leon - FrontEnd.pe | Usando Preact, una alternativa ligera a React| https://speakerdeck.com/hpneo/usando-preact-una-alternativa-ligera-a-react
 José Diaz - Perú Java User Group | Novedades para desarrolladores sobre Java 9 y Java EE 8| --
 Hernan Quintana | Feature selection utilizando Tensorflow | --
-Eddú Meléndez - Docker Lima| Construyendo Pipelines con Jenkins | --
+Eddú Meléndez - Docker Lima| Construyendo Pipelines con Jenkins | https://github.com/eddumelendez/devfest-2017-jenkinsci
 Zig Mandel - GDE| Firebase: mejores apps, más rápido| --
 Edith Puclla - Docker Lima | Docker Ecosystem| https://www.slideshare.net/EdithPuclla/gdglima-dockerecosystem-82718836
 Renzo Evans - Game Devs Perú | UI y UX de tutoriales y Ads en Videojuegos| https://drive.google.com/file/d/1pEB2ctEz9XSofJTj5x4RMrDZZ3h07hWs/view?usp=sharing
