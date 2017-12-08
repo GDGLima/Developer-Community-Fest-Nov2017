@@ -17,7 +17,7 @@ Pablo Johnson - Android Dev Perú | Android Architecture Components | https://do
 Elder Vasquez - Area51 | Cómo y por qué ARKit está un paso delante de ARCore | https://drive.google.com/file/d/1tHu0_G4v4Wk7k-x-Imc1BGVddWjYfcuV/view?usp=sharing
 Nadia Breuer - Victoria Sampi - Mauro Fernandez | Conversatorio UX | https://drive.google.com/file/d/1TWaz9Me0k79ZsZEtzldfKDSWYfCUFf3Y/view?usp=sharing https://drive.google.com/file/d/158Pu_uV_24lv92gaFcKr_i5MMovuoldY/view?usp=sharing
 Gustavo Leon - FrontEnd.pe | Usando Preact, una alternativa ligera a React| https://speakerdeck.com/hpneo/usando-preact-una-alternativa-ligera-a-react
-José Diaz - Perú Java User Group | Novedades para desarrolladores sobre Java 9 y Java EE 8| --
+José Diaz - Perú Java User Group | Novedades para desarrolladores sobre Java 9 y Java EE 8| https://speakerdeck.com/joedayz/javaday-peru-2017-novedades-de-java-9-y-java-ee-8
 Hernan Quintana | Feature selection utilizando Tensorflow | --
 Eddú Meléndez - Docker Lima| Construyendo Pipelines con Jenkins | https://github.com/eddumelendez/devfest-2017-jenkinsci
 Zig Mandel - GDE| Firebase: mejores apps, más rápido| --
