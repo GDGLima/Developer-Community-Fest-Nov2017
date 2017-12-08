@@ -5,7 +5,7 @@ Presentaciones :
 
 Expositor | Tema  | Presentación 
 ------------ | ------------- | ------------- 
-Carlos García - Google Peru   | Publicidad con Google AdWords | --
+Carlos García - Google Peru   | Publicidad con Google AdWords | https://docs.google.com/presentation/d/1KCEIakTxwIMCX_TaUo0pJbQA5jTEAT2wOPVy-oq1giI/edit?usp=drivesdk
 Kevin Salazar - Kotlin Perú  | Ejemplo sobre Android Architecture Components usando Kotlin | https://github.com/kevicsalazar/UpLabs-Kotlin/tree/Architecture-Components
 Juan Gonzales - Laravel Perú  | Arquitectura y buenas practicas con php7 y Laravel 5.5 | https://drive.google.com/file/d/1snaPQjYwQIO-4y3j7FiH4mSDKGB6P6Mf/view?usp=sharing
 Luis Valvidia - Phaser Perú  | Phaser + Cordova | https://docs.google.com/presentation/d/1282fx_iIxZiB0iAT0GBsBA9gy7R02ZW4jxSBx0IDB1E/edit?usp=sharing
@@ -28,6 +28,6 @@ Nicolas Bianchi - GDE |Introducción a Material Design y UX process| --
 Paúl Diaz - FrontEnd.pe |React - The good parts| --
 Leandro Sono | Principios de UX para diseñar mejores soluciones digitales | --
 José Garcia - Franti Huamán - Area51 | Sincronización de datos en aplicaciones de alto rendimiento | https://drive.google.com/file/d/1A_JDkZIS5plO79nYf5Jnsv-Vjlk70P_6/view?usp=sharing
-Santiago Carrillo - GDE | Integrando Android con Firebase | --
+Santiago Carrillo - GDE | Integrando Android con Firebase | https://docs.google.com/presentation/d/1O3wybz9xDP5BfvNRARp1Es6vte7SljXUJxVDGTkjcBk
 Randy Real - Python Perú | Python una manera distinta en programación web y desarrollo de aplicaciones | --
 Bryam Soto - OpenLab | Maker Clusterin - Google Maps | https://drive.google.com/file/d/1KNEHfJVa_3nqFUy5VzA_mvXfuoxXf3YA/view?usp=sharing
