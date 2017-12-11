@@ -25,7 +25,7 @@ Edith Puclla - Docker Lima | Docker Ecosystem| https://www.slideshare.net/EdithP
 Renzo Evans - Game Devs Perú | UI y UX de tutoriales y Ads en Videojuegos| https://drive.google.com/file/d/1pEB2ctEz9XSofJTj5x4RMrDZZ3h07hWs/view?usp=sharing
 Stephanie Frias - Hablemos de Testing |La terrible mente de un tester| https://www.slideshare.net/stephaniefriasz/la-terrible-mente-de-un-tester/stephaniefriasz/la-terrible-mente-de-un-tester
 Nicolas Bianchi - GDE |Introducción a Material Design y UX process| --
-Paúl Diaz - FrontEnd.pe |React - The good parts| --
+Paúl Diaz - FrontEnd.pe |React - The good parts| https://github.com/paulrrdiaz/gdglima-react-the-good-parts
 Leandro Sono | Principios de UX para diseñar mejores soluciones digitales | https://drive.google.com/file/d/1BjyXx6BDWZSO6i8szvwiDze9iHxiKWMK/view?usp=sharing
 José Garcia - Franti Huamán - Area51 | Sincronización de datos en aplicaciones de alto rendimiento | https://drive.google.com/file/d/1A_JDkZIS5plO79nYf5Jnsv-Vjlk70P_6/view?usp=sharing
 Santiago Carrillo - GDE | Integrando Android con Firebase | https://docs.google.com/presentation/d/1O3wybz9xDP5BfvNRARp1Es6vte7SljXUJxVDGTkjcBk
